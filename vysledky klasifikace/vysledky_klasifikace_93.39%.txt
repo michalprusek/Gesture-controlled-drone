@@ -1,0 +1,14 @@
+Pocet nejblizsich sousedu: 5
+Celkem referencnich gest: 4720
+Celkem testovanych gest: 1180
+Spravne klasifikovanych gest: 1090
+Celkova uspesnost: 93.39 %
+-----------------------------------------------------------
+Five - 109/111 = 98.2 %
+Four - 112/112 = 100.0 %
+Three - 126/139 = 90.65 %
+Two - 116/117 = 99.15 %
+One - 124/133 = 93.23 %
+Circle - 140/164 = 85.37 %
+Rocknroll - 168/179 = 93.85 %
+Thumb - 195/225 = 86.67 %
