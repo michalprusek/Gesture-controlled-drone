@@ -1,3 +1,3 @@
 # Gesture-controlled-drone
 # složka "vysledky segmentace"
-obsahuje CSV soubory pro každou hodnotu prahu P v rozasahu , kterým prahujeme obraz vzniklý ze zpětné projekce histogramu
+obsahuje CSV soubory pro každou hodnotu prahu P v rozsahu od 1 do 20, kterým prahujeme obraz vzniklý ze zpětné projekce histogramu. Úspěšnost segmentace vyhodnocujeme pomocí metody Intersection over Union (IoU). IoU metodou vyhodnucejeme dvojici polygonů - jedním z nich je referenční polygon gesta vzniklý manuální anotací gesta v platformě CVAT, druhým z nich je kontura segmentované části gesta. Pro každou hodnotu prahu P vyhodnotíme úšpěsnost pomocí metody IoU pro každou dvojici gest v datasetu obsahujícím 1602 párů obrázků gesto-obličej a určíme medián těchto hodnot IoU. Soubory jsou seřazeny vzestupně podle hodnot mediánů IoU. Nejvyšší hodnota mediánu IoU přísluší hodnotě prahu P = 7.
