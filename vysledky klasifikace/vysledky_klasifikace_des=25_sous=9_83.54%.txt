@@ -1,0 +1,15 @@
+Pocet deskriptoru: 25
+Pocet nejblizsich sousedu: 9
+Celkem referencnich gest: 9562
+Celkem testovanych gest: 2391
+Spravne klasifikovanych gest: 2000
+Celkova uspesnost: 83.54124999999999 %
+-----------------------------------------------------------
+Five - 285/289 = 98.62 %
+Four - 303/313 = 96.81 %
+Three - 270/308 = 87.66 %
+Two - 241/296 = 81.42 %
+One - 244/297 = 82.15 %
+Circle - 229/292 = 78.42 %
+Rocknroll - 236/315 = 74.92 %
+Thumb - 192/281 = 68.33 %
