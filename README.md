@@ -7,3 +7,5 @@ obsahuje TXT soubory, které obsahují výsledky klasifikace gest pomocí námi 
 obsahuje soubory, ve kterých je implementována námi navržená metoda. Algoritmus metody se nachází v souboru "FaceDetector.py" a využívá funkce ze souboru "PomocneFunkce.py". V implementaci jsou využity knihovny Numpy, MediaPipe, OpenCV, Matplotlib. Nejprve je načten obraz z kamery počítače. Pro detekci obličeje v obrazu je využita knihovna MediaPipe. Jejím výstupem jsou klíčové body ohraničujícího obdélníku obličeje. Ten je společně s ohraničujícím obdélníkem gesta vykreslen do obrazu. V ohraničujícím obdélníku gesta se pak rozpoznává samotné gesto. Výsledek rozpoznávání je vždy vypsán nad ohraničujícíc obdélník gesta.
 # Složka "metoda neuronových sítí"
 obsahuje soubory, ve kterých je implementace programu pro klasifikaci gest na základě neuronových sítí. Výstup a uživatelské chování je analogické k předchozí zmíněné implementaci námi navržené metody. Pouze je zde využit ke klasifikaci gesta naučený model neuronové sítě.
+# Text bakalářské práce
+je uložen v souboru PDF pod názvem "Bakalářská práce - Dron ovládaný gesty"
